@@ -1,0 +1,22 @@
+
+.index-banner {
+
+}
+
+.index-banner-bg {
+    height: 570px;
+    overflow: hidden;
+}
+
+.index-banner-text {
+    position: absolute;
+    top:200px;
+    left: 50%;
+    margin-left: -388px;
+}
+
+.index-banner-text .text-logo {
+    width: 776px;
+    height: 117px;
+    background: url("../images/index-banner-textlogo.png")no-repeat;
+}
