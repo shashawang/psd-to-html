@@ -61,45 +61,7 @@
 }
 
 
-.index-panel{
-    margin-top: 200px;
-}
 
-.index-panel-header h3 {
-    font-size: 20px;
-    margin-top: 48px;
-    font-size: 20px;
-    color: #3b3b3b;
-    font-weight: normal;
-}
 
-.index-panel-header .line{
-    float: left;
-    margin-top: 7px;
-    width: 200px;
-    border-top: 1px solid #e5e3e3;
-}
-
-.index-panel-header .btn-group {
-    font-size: 0;
-    float: right;
-}
-
-.index-panel-header .btn {
-    display: inline-block;
-    margin-left: 11px;
-    width: 9px;
-    height: 9px;
-    background: #dedede;
-    border-radius: 50%;
-}
-
-.index-panel-header .active {
-    background: #9b9b9b;
-}
-
-.index-panel-body {
-    margin-top: 75px;
-}
 
 
