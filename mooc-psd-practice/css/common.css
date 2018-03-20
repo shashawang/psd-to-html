@@ -50,14 +50,16 @@
     line-height: 1.8;
 }
 
-.public-footer .footer-col:last-child {
+.public-footer .footer-col-nor {
     margin-right: 0;
 }
 
 .public-footer .footer-logo {
     width: 182px;
     height: 55px;
-    background: url("../images/index-footer-logo.png");
+    margin-top: -10px;
+    margin-bottom: 12px;
+    background: url("../images/index-footer-logo.png") no-repeat;
 }
 
 
